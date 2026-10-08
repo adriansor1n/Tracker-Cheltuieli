@@ -7,7 +7,7 @@ cheltuielilor personale.
 
 http://localhost:5173/
 
-## 🛠️ Tehnologii
+##  Tehnologii
 
 - React
 - TypeScript
