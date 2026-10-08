@@ -1,9 +1,18 @@
-# Tracker-Cheltuieli
+# OaSpend
 
--trebuie folosit : HTML/CSS, JS, TS, React
+OaSpend este o aplicație web pentru gestionarea și monitorizarea
+cheltuielilor personale.
 
--trebuie sa contina categorii : total; filtre; LocalStorage; responsive
+## Demo
 
--perfecionare : grafice; export CSV; API; dark mode
+http://localhost:5173/
 
--structura recomandata : components / services / types / utils
+## 🛠️ Tehnologii
+
+- React
+- TypeScript
+- Vite
+- CSS
+- LocalStorage
+- REST API
+- Git & GitHub
